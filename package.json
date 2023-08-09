@@ -1,0 +1,25 @@
+{
+  "name": "manoranjan_travels",
+  "version": "1.0.0",
+  "description": "\"# travel\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishrasaurabh8097/travel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishrasaurabh8097/travel/issues"
+  },
+  "homepage": "https://github.com/mishrasaurabh8097/travel#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
